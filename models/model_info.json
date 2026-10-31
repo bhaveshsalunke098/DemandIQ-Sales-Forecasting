@@ -1,0 +1,8 @@
+{
+  "store": 1,
+  "item": 1,
+  "test_months": 9,
+  "MAE": 27.083424603174574,
+  "RMSE": 32.92995390517746,
+  "MAPE_percent_nonzero_actuals": 3.689677772237712
+}
