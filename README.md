@@ -5,13 +5,13 @@ DemandIQ is a machine learning-based sales demand forecasting application built 
 ## 📸 Project Screenshots
 
 ### 1. Dashboard Overview
-![DemandIQ Dashboard Overview](screenshots/dashboard-overview.png)
+![DemandIQ Dashboard Overview](dashboard-overview.png)
 
 ### 2. Sales Forecast
-![DemandIQ Sales Forecast](screenshots/sales-forecast.png)
+![DemandIQ Sales Forecast](sales-forecast.png)
 
 ### 3. Forecast Results
-![DemandIQ Forecast Results](screenshots/forecast-results.png)
+![DemandIQ Forecast Results](forecast-results.png)
 
 ## ✨ Features
 
